@@ -46,7 +46,7 @@
 
 ## Tools Yang Digunakan
 
-* Python
+### Python
 
 1. Kunjungi tautan berikut untuk proses instalasinya: https://www.python.org/
 ![img.2](gambar/python.png)
@@ -56,21 +56,21 @@
 3. ketikan `Python` untuk melihat versi python yang telah terinstall.
 ![img.3](gambar/versi%20pip.png)
 
-* Requests
+### Requests
 
 - Requests merupakan library HTTP untuk proses mengirim dan mengambil data menggunakan protokol HTTP.
 
 - Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah:
 ![img.4](gambar/requests.png)
 
-* BeautifulSoup
+### BeautifulSoup
 
 - BeautifulSoup merupakan library yang digunakan untuk proses web scraping halaman HTML dan XML.
 
 - Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah:
 ![img.5](gambar/BS.png)
 
-* Pandas
+### Pandas
 
 - Pandas adalah library open source pada Python yang sering digunakan untuk memproses data yang meliputi pembersihan data, manipulasi data, hingga melakukan analisis data. Ketika melakukan suatu analisis, kita tidak bisa menggunakan data mentah.
 
@@ -79,7 +79,7 @@
 - Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah:
 ![img.6](gambar/pandas.jpg)
 
-* Google Colab
+### Google Colab
 
 1. Kunjungi tautan berikut untuk membuat project baru: https://colab.research.google.com/
 
@@ -98,3 +98,5 @@
 
 7. Jika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah:
 ![img.10](gambar/hasil.png)
+
+# Selesai
